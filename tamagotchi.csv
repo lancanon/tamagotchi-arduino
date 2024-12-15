@@ -1,0 +1,9 @@
+﻿Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"Rpot1",1,"5 kΩ Potentiometer"
+"U2",1," LCD 16 x 2"
+"R1",1,"220 Ω Resistor"
+"S1",1," Pushbutton"
+"PIEZO1",1," Piezo"
+"R2",1,"10 kΩ Resistor"
+"D41, D42, D43, D44, D1, D2, D3, D4, D9, D10, D11, D12, D17, D18, D19, D20",16,"Red LED"
